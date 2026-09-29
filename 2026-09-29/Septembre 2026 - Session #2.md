@@ -5,7 +5,7 @@
 - [3. Changer une teinte](# 3. Changer une teinte)
 - [4. Combiner 2 photos pour récupérer certaines zones](# 4. Combiner 2 photos pour récupérer certaines zones)
 
-
+pouet
 # 1. Effacer un liseré
 A partir du fichier "Reflet lac liseré blanc.dng"
 1. Utiliser l'outil Tampon duplicateur
