@@ -63,11 +63,11 @@ A partir des fichiers : Ponta-do-Sol-Sunset.jpg
 7. Créer un masque noir (opt ou alt + clic sur nouveau masque) sur ce calque du dessus
 8. Utiliser l'outil Lasso Polygonal pour créer un contour sur le chapiteau
 9. Se mettre sur le masque, Menu Édition > Remplir, puis :
-![[07.png]]
+![[06.png]]
 
 10. Remettre le mode de fusion du calque du dessus à Normal
 11. Créer un calque de réglage Courbes
 12. Passer en mode Écrétage :
-![[08.png]]
+![[07.png]]
 
 13. Régler les bleus et les rouges
