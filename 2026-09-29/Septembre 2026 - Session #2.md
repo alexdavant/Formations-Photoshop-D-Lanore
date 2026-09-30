@@ -64,15 +64,16 @@ Pour créer un masque par rapport à l'intérieur d'un cadre :
 
 1. Ouvrir les 2 images dans Photoshop
 2. Copier une image vers l'autre (Shift + clic calque et déplacer vers l'autre image)
-3. Sélectionner les 2 calques puis Édition > Alignement automatique des calques
-4. Sur le calque du dessus, choisir le Mode de fusion Différence :  
+3. Redimensionner un des 2 calques si besoin avec l'outil Transformation puis fn sous macOS (Shift sous Windows) + étirer
+4. Sélectionner les 2 calques puis Édition > Alignement automatique des calques
+5. Sur le calque du dessus, choisir le Mode de fusion Différence :  
 ![Mode fusion](./assets/05.png)
 
-5. Utiliser l'outil Déplacement sur le calque du dessus pour affiner l'alignement
-6. Mettre le calque le plus jaune dessus
-7. Créer un masque noir (opt sur macOS ou alt sur Windows + clic sur nouveau masque) sur ce calque du dessus
-8. Utiliser l'outil Lasso Polygonal pour créer un contour sur le chapiteau
-9. Se mettre sur le masque, Menu Édition > Remplir, puis :  
+6. Utiliser l'outil Déplacement sur le calque du dessus pour affiner l'alignement
+7. Mettre le calque le plus jaune dessus
+8. Créer un masque noir (opt sur macOS ou alt sur Windows + clic sur nouveau masque) sur ce calque du dessus
+9. Utiliser l'outil Lasso Polygonal pour créer un contour sur le chapiteau
+10. Se mettre sur le masque, Menu Édition > Remplir, puis :  
 ![Remplir](./assets/06.png)
 
 10. Remettre le mode de fusion du calque du dessus à Normal
