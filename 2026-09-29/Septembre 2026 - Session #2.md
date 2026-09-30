@@ -5,17 +5,15 @@
 - [3. Changer une teinte](#3-changer-une-teinte)
 - [4. Combiner 2 photos pour récupérer certaines zones](#4-combiner-2-photos-pour-récupérer-certaines-zones)
 
-```markdown
-[!NOTE]
-Réalisé avec Photoshop 27.10.0
-```
+
+>[!NOTE]
+>Réalisé avec Photoshop 27.10.0
 
 ## 1. Effacer un liseré
 
-```markdown
-[!IMPORTANT]
-À partir du fichier "Reflet lac liseré blanc.dng"
-```
+
+>[!IMPORTANT]
+>À partir du fichier "Reflet lac liseré blanc.dng"
 
 1. Utiliser l'outil Tampon duplicateur
 2. Choisir le Mode : Obscurcir  
@@ -25,11 +23,11 @@ Réalisé avec Photoshop 27.10.0
 
 ## 2. Mettre des photos dans des cadres muraux
 
-[!IMPORTANT]
-À partir des fichiers :
-- Copie de Cadres au mur.jpg
-- Copie de Terres perdues.jpg
-- Copie de Altitudes.jpg
+>[!IMPORTANT]
+>À partir des fichiers :
+>- Copie de Cadres au mur.jpg
+>- Copie de Terres perdues.jpg
+>- Copie de Altitudes.jpg
 
 1. Ouvrir les 3 fichiers
 2. Depuis Terres perdues ou Altitudes : faire Maj + clic calque + déplacer vers Copie Cadres au mur
@@ -47,7 +45,8 @@ Pour créer un masque par rapport à l'intérieur d'un cadre :
 
 ## 3. Changer une teinte
 
-À partir de l'image Voiture-rouge.jpg
+>[!IMPORTANT]
+>À partir de l'image Voiture-rouge.jpg
 
 1. Créer un calque de réglage Teinte / Saturation
 2. Avec la petite main, sélectionner la couleur avec la pipette  
@@ -60,8 +59,8 @@ Pour créer un masque par rapport à l'intérieur d'un cadre :
 
 ## 4. Combiner 2 photos pour récupérer certaines zones
 
-[!IMPORTANT]
-À partir des fichiers : Ponta-do-Sol-Sunset.jpg et _DL_4788-Modifier.jpg
+>[!IMPORTANT]
+>À partir des fichiers : Ponta-do-Sol-Sunset.jpg et _DL_4788-Modifier.jpg
 
 1. Ouvrir les 2 images dans Photoshop
 2. Copier une image vers l'autre (Shift + clic calque et déplacer vers l'autre image)
