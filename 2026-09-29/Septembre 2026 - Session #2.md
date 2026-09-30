@@ -5,18 +5,27 @@
 - [3. Changer une teinte](#3-changer-une-teinte)
 - [4. Combiner 2 photos pour récupérer certaines zones](#4-combiner-2-photos-pour-récupérer-certaines-zones)
 
+```markdown
+[!NOTE]
+Réalisé avec Photoshop 27.10.0
+```
 
 ## 1. Effacer un liseré
+
+```markdown
+[!IMPORTANT]
 À partir du fichier "Reflet lac liseré blanc.dng"
+```
 
 1. Utiliser l'outil Tampon duplicateur
 2. Choisir le Mode : Obscurcir  
    ![Obscurcir](./assets/01.png)
-4. Touche option (ou Alt sur Windows) + clic sur le ciel
-5. Puis passer le tampon sur le liseré
+3. Touche option sur macOS (ou Alt sur Windows) + clic sur le ciel
+4. Puis passer le tampon sur le liseré
 
 ## 2. Mettre des photos dans des cadres muraux
 
+[!IMPORTANT]
 À partir des fichiers :
 - Copie de Cadres au mur.jpg
 - Copie de Terres perdues.jpg
@@ -24,7 +33,7 @@
 
 1. Ouvrir les 3 fichiers
 2. Depuis Terres perdues ou Altitudes : faire Maj + clic calque + déplacer vers Copie Cadres au mur
-3. Sélectionner le calque Terres perdues et utiliser l'outil Transformation (cmd + T ou ctrl + T) puis touche fn + redimensionner pour garder les proportions
+3. Sélectionner le calque Terres perdues et utiliser l'outil Transformation (cmd + T sur macOS ou ctrl + T sur Windows) puis touche fn sur macOS (ou Shift sur Windows) + redimensionner pour garder les proportions
 4. Puis clic droit et choisir Distorsion et ajuster au cadre
 
 Pour créer un masque par rapport à l'intérieur d'un cadre :
@@ -51,6 +60,7 @@ Pour créer un masque par rapport à l'intérieur d'un cadre :
 
 ## 4. Combiner 2 photos pour récupérer certaines zones
 
+[!IMPORTANT]
 À partir des fichiers : Ponta-do-Sol-Sunset.jpg et _DL_4788-Modifier.jpg
 
 1. Ouvrir les 2 images dans Photoshop
@@ -61,7 +71,7 @@ Pour créer un masque par rapport à l'intérieur d'un cadre :
 
 5. Utiliser l'outil Déplacement sur le calque du dessus pour affiner l'alignement
 6. Mettre le calque le plus jaune dessus
-7. Créer un masque noir (opt ou alt + clic sur nouveau masque) sur ce calque du dessus
+7. Créer un masque noir (opt sur macOS ou alt sur Windows + clic sur nouveau masque) sur ce calque du dessus
 8. Utiliser l'outil Lasso Polygonal pour créer un contour sur le chapiteau
 9. Se mettre sur le masque, Menu Édition > Remplir, puis :  
 ![Remplir](./assets/06.png)
