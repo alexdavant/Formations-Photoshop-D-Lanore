@@ -1,9 +1,9 @@
 ## 📑 Sommaire
 
-- [1. Effacer un liseré][# 1. Effacer un liseré]
-- [2. Mettre des photos dans des cadres mureaux](# 2. Mettre des photos dans des cadres mureaux)
-- [3. Changer une teinte](# 3. Changer une teinte)
-- [4. Combiner 2 photos pour récupérer certaines zones](# 4. Combiner 2 photos pour récupérer certaines zones)
+- [1. Effacer un liseré](#1-effacer-un-liseré) 
+- [2. Mettre des photos dans des cadres muraux](#2-mettre-des-photos-dans-des-cadres-muraux)
+- [3. Changer une teinte](#3-changer-une-teinte)
+- [4. Combiner 2 photos pour récupérer certaines zones](#4-combiner-2-photos-pour-récupérer-certaines-zones)
 
 
 ## 1. Effacer un liseré
@@ -14,7 +14,7 @@ A partir du fichier "Reflet lac liseré blanc.dng"
 4. Touche option (ou Alt sur Windows) + clic sur le ciel
 5. Puis passer le tampon sur le liseré
 
-## 2. Mettre des photos dans des cadres mureaux
+## 2. Mettre des photos dans des cadres muraux
 
 A partir des fichiers :
 - Copie de Cadres au mur.jpg
