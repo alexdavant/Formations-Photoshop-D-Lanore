@@ -30,7 +30,7 @@
 >- Copie de Altitudes.jpg
 
 1. Ouvrir les 3 fichiers
-2. Depuis Terres perdues ou Altitudes : faire Maj + clic calque + déplacer vers Copie Cadres au mur
+2. Depuis Terres perdues ou Altitudes : faire Shift + clic calque + déplacer vers Copie Cadres au mur
 3. Sélectionner le calque Terres perdues et utiliser l'outil Transformation (cmd + T sur macOS ou ctrl + T sur Windows) puis touche fn sur macOS (ou Shift sur Windows) + redimensionner pour garder les proportions
 4. Puis clic droit et choisir Distorsion et ajuster au cadre
 
