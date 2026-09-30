@@ -7,7 +7,8 @@
 
 
 ## 1. Effacer un liseré
-A partir du fichier "Reflet lac liseré blanc.dng"
+À partir du fichier "Reflet lac liseré blanc.dng"
+
 1. Utiliser l'outil Tampon duplicateur
 2. Choisir le Mode : Obscurcir  
    ![Obscurcir](./assets/01.png)
@@ -16,7 +17,7 @@ A partir du fichier "Reflet lac liseré blanc.dng"
 
 ## 2. Mettre des photos dans des cadres muraux
 
-A partir des fichiers :
+À partir des fichiers :
 - Copie de Cadres au mur.jpg
 - Copie de Terres perdues.jpg
 - Copie de Altitudes.jpg
@@ -37,7 +38,7 @@ Pour créer un masque par rapport à l'intérieur d'un cadre :
 
 ## 3. Changer une teinte
 
-A partir de l'image Voiture-rouge.jpg
+À partir de l'image Voiture-rouge.jpg
 
 1. Créer un calque de réglage Teinte / Saturation
 2. Avec la petite main, sélectionner la couleur avec la pipette  
@@ -50,7 +51,7 @@ A partir de l'image Voiture-rouge.jpg
 
 ## 4. Combiner 2 photos pour récupérer certaines zones
 
-A partir des fichiers : Ponta-do-Sol-Sunset.jpg
+À partir des fichiers : Ponta-do-Sol-Sunset.jpg et _DL_4788-Modifier.jpg
 
 1. Ouvrir les 2 images dans Photoshop
 2. Copier une image vers l'autre (Shift + clic calque et déplacer vers l'autre image)
