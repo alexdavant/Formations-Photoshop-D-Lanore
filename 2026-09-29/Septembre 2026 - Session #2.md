@@ -28,7 +28,7 @@
 4. Puis clic droit et choisir Distorsion et ajuster au cadre
 
 Pour créer un masque par rapport à l'intérieur d'un cadre :
-1. Utiliser la Baguette Magique avec ses paramètres :  
+1. Utiliser la Baguette Magique avec ces paramètres :  
 ![Paramètres baguette magique](./assets/02.png)
 2. Sélectionner la zone blanche sur le calque
 3. Revenir sur le calque de l'image à intégrer
