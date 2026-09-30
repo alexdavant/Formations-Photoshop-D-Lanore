@@ -18,7 +18,7 @@
 1. Utiliser l'outil Tampon duplicateur
 2. Choisir le Mode : Obscurcir  
    ![Obscurcir](./assets/01.png)
-3. Touche option sur macOS (ou Alt sur Windows) + clic sur le ciel
+3. Touche <kbd>opt</kbd> sur macOS (ou <kbd>alt</kbd> sur Windows) + clic sur le ciel
 4. Puis passer le tampon sur le liseré
 
 ## 2. Mettre des photos dans des cadres muraux
@@ -30,8 +30,8 @@
 >- Copie de Altitudes.jpg
 
 1. Ouvrir les 3 fichiers
-2. Depuis Terres perdues ou Altitudes : faire Shift + clic calque + déplacer vers Copie Cadres au mur
-3. Sélectionner le calque Terres perdues et utiliser l'outil Transformation (cmd + T sur macOS ou ctrl + T sur Windows) puis touche fn sur macOS (ou Shift sur Windows) + redimensionner pour garder les proportions
+2. Depuis Terres perdues ou Altitudes : faire <kbd>Shift</kbd> + clic calque + déplacer vers l'onglet Copie Cadres au mur qui doit s'ouvrir. Maintenir <kbd>Shift</kbd> enfoncé et descendre la souris sur l'image affichée
+3. Sélectionner le calque Terres perdues et utiliser l'outil Transformation (<kbd>cmd</kbd> + <kbd>T</kbd> sur macOS ou <kbd>ctrl</kbd> + <kbd>T</kbd> sur Windows) puis <kbd>fn</kbd> sur macOS (ou <kbd>Shift</kbd> sur Windows) + redimensionner pour garder les proportions
 4. Puis clic droit et choisir Distorsion et ajuster au cadre
 
 Pour créer un masque par rapport à l'intérieur d'un cadre :
@@ -63,15 +63,15 @@ Pour créer un masque par rapport à l'intérieur d'un cadre :
 >À partir des fichiers : Ponta-do-Sol-Sunset.jpg et _DL_4788-Modifier.jpg
 
 1. Ouvrir les 2 images dans Photoshop
-2. Copier une image vers l'autre (Shift + clic calque et déplacer vers l'autre image)
-3. Redimensionner un des 2 calques si besoin avec l'outil Transformation puis fn sous macOS (Shift sous Windows) + étirer
+2. Copier une image vers l'autre (<kbd>Shift</kbd> + clic calque et déplacer vers l'autre image)
+3. Redimensionner un des 2 calques si besoin avec l'outil Transformation puis <kbd>fn</kbd> sous macOS (<kbd>Shift</kbd> sous Windows) + étirer
 4. Sélectionner les 2 calques puis Édition > Alignement automatique des calques
 5. Sur le calque du dessus, choisir le Mode de fusion Différence :  
 ![Mode fusion](./assets/05.png)
 
 6. Utiliser l'outil Déplacement sur le calque du dessus pour affiner l'alignement
 7. Mettre le calque le plus jaune dessus
-8. Créer un masque noir (opt sur macOS ou alt sur Windows + clic sur nouveau masque) sur ce calque du dessus
+8. Créer un masque noir (<kbd>opt</kbd> sur macOS ou <kbd>alt</kbd> sur Windows + clic sur nouveau masque) sur ce calque du dessus
 9. Utiliser l'outil Lasso Polygonal pour créer un contour sur le chapiteau
 10. Se mettre sur le masque, Menu Édition > Remplir, puis :  
 ![Remplir](./assets/06.png)
