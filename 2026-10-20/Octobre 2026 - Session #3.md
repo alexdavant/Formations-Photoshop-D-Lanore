@@ -3,7 +3,7 @@
 - [2. Mode de fusion Lumière tamisée](#2-mode-de-fusion-lumière-tamisée)
 - [3. Mode de fusion Eclaicir](#3-mode-de-fusion-eclaicir)
 - [4. Mode de fusion Produit](#4-mode-de-fusion-produit)
-- [5. Effet Orton + halo](#5-effet-orton-+-halo)
+- [5. Effet Orton + halo](#5-effet-orton-halo)
 
 
 >[!NOTE]
@@ -88,7 +88,7 @@ Dans Photoshop
 	- sur n'importe quel calque : Sélection > Ciel
 	- créer un masque sur le calque du dessus puis inverser le masque (<kbd>Ctrl</kbd> sur Windows ou <kbd>Cmd</kbd> + <kbd>I</kbd>)
 
-## 4.Mode de fusion Produit
+## 4. Mode de fusion Produit
 
 >[!IMPORTANT]
 >A partir du fichier `sans titre-3180.dng`
