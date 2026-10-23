@@ -1,9 +1,9 @@
 ## 📑 Sommaire
 - [1. Corriger l'expo sur une image](#1-corriger-l-expo-sur-une-image) 
-- [2. Mode de fusion Lumière tamisée](2-mode-de-fusion-lumière-tamisée)
-- [3. Mode de fusion Eclaicir](3-mode-de-fusion-eclaicir)
-- [4. Mode de fusion Produit](4-mode-de-fusion-produit)
-- [5. Effet Orton + halo](5-effet-orton-+-halo)
+- [2. Mode de fusion Lumière tamisée](#2-mode-de-fusion-lumière-tamisée)
+- [3. Mode de fusion Eclaicir](#3-mode-de-fusion-eclaicir)
+- [4. Mode de fusion Produit](#4-mode-de-fusion-produit)
+- [5. Effet Orton + halo](#5-effet-orton-+-halo)
 
 
 >[!NOTE]
