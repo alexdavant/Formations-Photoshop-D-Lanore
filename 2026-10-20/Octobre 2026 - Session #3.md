@@ -1,5 +1,5 @@
 ## 📑 Sommaire
-- [1. Corriger l'expo sur une image](#1-corriger-l-expo-sur-une-image) 
+- [1. Corriger l'exposition sur une image](#1-corriger-l-exposition-sur-une-image) 
 - [2. Mode de fusion Lumière tamisée](#2-mode-de-fusion-lumière-tamisée)
 - [3. Mode de fusion Eclaicir](#3-mode-de-fusion-eclaicir)
 - [4. Mode de fusion Produit](#4-mode-de-fusion-produit)
@@ -9,7 +9,7 @@
 >[!NOTE]
 >Réalisé avec Photoshop 27.11.0
 
-## 1. Corriger l'expo sur une image
+## 1. Corriger l'exposition sur une image
 
 >[!IMPORTANT]
 >À partir de la photo `Réchauffer HL refroidir ombre.jpg`
