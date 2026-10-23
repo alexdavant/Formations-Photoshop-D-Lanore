@@ -15,7 +15,7 @@
 >À partir de la photo `Réchauffer HL refroidir ombre.jpg`
 
 ### 1.1 Soit rajouter un calque de Lumière
-![[./assets/01.png]]
+![Calque de lumière](./assets/01.png)
 
 Puis régler les tons clairs et les tons foncés :
 ![[./assets/02.png|293]]
