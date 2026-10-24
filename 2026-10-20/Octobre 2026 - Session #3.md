@@ -138,7 +138,6 @@ Dans Photoshop
 12. Puis diminuer l'Opacité à 20% 
 
 13. Double cliquer à droite du calque pour afficher le Style de calque et modifier la "**Comparaison sur : Gris**"
-![[./assets/22.png]]
 <img src="./assets/22.png">
 
 
