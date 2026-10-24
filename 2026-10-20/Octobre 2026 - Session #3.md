@@ -148,5 +148,5 @@ Voici ce qu'on observe à l'issue de toutes les manipulations sur le calque conv
 
 1. Créer un nouveau calque de pixel et choisir le mode de fusion "Lumière tamisée"
 2. Avec la pipette, choisir une couleur claire
-3. Prendre le pinceau et choisir une épaisseur (<kbd>Ctrl</kbd> + <kbd>Opt</kbd> + clic gauche) et durée très faible
+3. Prendre le pinceau et choisir une épaisseur (<kbd>Ctrl</kbd> + <kbd>Opt</kbd> + clic gauche) et dureté très faible
 4. Et peindre avec parcimonie sur la zone à éclaircir
