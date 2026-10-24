@@ -18,6 +18,7 @@
 <img src="./assets/01.png" width="260">
 
 Puis régler les tons clairs et les tons foncés :
+
 <img src="./assets/02.png" width="293">
 
 
@@ -25,6 +26,7 @@ Puis régler les tons clairs et les tons foncés :
 <img src="./assets/04.png" width="207">
 
 Puis (1) diminuer les hautes lumières et (2) éclaircir les tons moyens
+
 <img src="./assets/05.png" width="214">
 
 
@@ -56,6 +58,7 @@ Puis (1) diminuer les hautes lumières et (2) éclaircir les tons moyens
 ### 2.1. Aplatir une image dans Camera Raw
 
 Dans Camera Raw pour aplatir :
+
 <img src="./assets/10.png" width="231">
 
 
