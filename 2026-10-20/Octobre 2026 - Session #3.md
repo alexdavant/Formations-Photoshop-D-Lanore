@@ -35,19 +35,23 @@ Puis (1) diminuer les hautes lumières et (2) éclaircir les tons moyens
 1. Ajouter un calque Filtre photo :
 <img src="./assets/06.png" width="214">
 
-2. Choisir un **filtre réchauffant 85** et pousser  la densité (80%) :
+2. Choisir un **filtre réchauffant 85** et pousser la densité (80%) selon les goûts :
 <img src="./assets/07.png" width="267">
 
-3. Double cliquer à droite du filtre :
+3. Double cliquer à droite du filtre (en dehors du nom du calque):
 <img src="./assets/08.png">
 
-4. Bouger le curseur de gauche et le dédoubler (touche <kbd>Alt</kbd> sur Windows ou <kbd>Opt</kbd> sur macOS):
+4. Bouger le curseur de gauche et le dédoubler (touche <kbd>Alt</kbd> sur Windows ou <kbd>Opt</kbd> sur macOS) :
+
+> [!CAUTION]
+> Attention à bien utiliser le curseur du haut (nommé **Calque actif**)
+
 <img src="./assets/09.png">
 
 ### 1.4. Refroidir certaines zones
 
 1. Même principe avec calque Filtre photo
-2. Choisir un filtre bleu et bouger le curseur de droite
+2. Choisir un filtre bleu et bouger le curseur de droite sur le curseur du haut nommé **Calque actif**
 
 
 ## 2. Mode de fusion Lumière tamisée
@@ -57,7 +61,7 @@ Puis (1) diminuer les hautes lumières et (2) éclaircir les tons moyens
 
 ### 2.1. Aplatir une image dans Camera Raw
 
-Dans Camera Raw pour aplatir :
+Dans Camera Raw pour rendre fade une image :
 
 <img src="./assets/10.png" width="231">
 
@@ -68,7 +72,10 @@ Dans Photoshop
 
 1. Créer un calque de Niveaux
 2. Choisir le mode de fusion "Lumière tamisée"
-3. Prendre le curseur noir et le tirer vers la droite
+3. Utiliser les deux poignées du curseur du bas pour rétablir une luminosité équivalent :
+	- les noirs vers la droite pour déboucher
+	- les blancs vers la gauche
+
 <img src="./assets/11.png" width="300">
 
 
@@ -79,16 +86,16 @@ Dans Photoshop
 
 1. Ouvrir les 2 images dans Photoshop
 2. Prendre le calque d'une image avec la souris (cliquer puis glisser)
-3. Glisser vers l'autre onglet
-4. Puis appuyer sur la touche <kbd>Shift</kbd> avant de relâcher sur l'image qui permettra de centrer les 2 images
+3. Glisser vers l'autre onglet avec la souris
+4. Puis appuyer sur la touche <kbd>Shift</kbd> avant de relâcher sur l'image qui permettra de centrer les 2 images (garder la touche <kbd>Shift</kbd> enfoncée jusqu'au relâchement de la souris)
 5. Positionner le calque contenant les lumières en haut de la liste des calques
 6. Aligner les calques :
-	- sélectionner les 2 calques dévérrouillés
+	- sélectionner les 2 calques
 	- Menu Edition > Alignement automatique des calques
 7. Choisir le mode de fusion "Eclaircir" sur le calque du haut
 8. Puis on veut récupérer le ciel du calque du dessous qui fera plus naturel :
 	- sur n'importe quel calque : Sélection > Ciel
-	- créer un masque sur le calque du dessus puis inverser le masque (<kbd>Ctrl</kbd> sur Windows ou <kbd>Cmd</kbd> + <kbd>I</kbd>)
+	- créer le masque de ciel sur le calque du dessus puis inverser le masque (<kbd>Ctrl</kbd> sur Windows ou <kbd>Cmd</kbd> + <kbd>I</kbd>) car on veut masquer ce ciel
 
 ## 4. Mode de fusion Produit
 
@@ -96,37 +103,37 @@ Dans Photoshop
 >A partir du fichier `sans titre-3180.dng`
 
 1. Sélectionner le ciel (Sélection > Ciel) sur calque déverrouillé
-2. Créer un calque Courbes
-3. Le mettre en mode de fusion Produit et jouer sur l'Opacité
+2. Créer un calque Courbes ou tout autre calque de réglage de luminosité
+3. Le mettre en mode de fusion Produit et jouer sur l'Opacité pour booster le contraste
 
 ## 5. Effet Orton + halo
 
 >[!IMPORTANT]
 >À partir Copie de `_DL_4254.dng`
 
-### 5.1. Effet Orton
+### 5.1. Effet Orton (superposer une image plus floue et plus claire sur l'originale)
 
 1. Ouvrir le fichier dans Camera Raw
-2. Afficher les zones bouchées (noires) en cliquant sur le curseur gauche en haut de l'histogramme :
+2. Afficher les zones bouchées (noires, qui seront en surbrillance bleue) en cliquant sur le curseur gauche en haut de l'histogramme (idem sur le carré en haut à droite pour afficher les zones cramées en rouge) :
 <img src="./assets/12.png" width="314">
 
 3. Puis créer un masque radial sur le bas gauche de l'image :
 <img src="./assets/14.png" width="36">
 
-4. Augmenter lentement (avec flèches du clavier plutôt qu’avec la souris) les Noirs jusqu’à déboucher la zone (dans cet exemple : Noirs à +4) :
+4. Augmenter lentement (avec flèches du clavier plutôt qu’avec la souris) les Noirs jusqu’à déboucher les noirs de la zone (dans cet exemple : Noirs à +4). Chercher la valeur minimale efficace (sinon effet mat) :
 <img src="./assets/13.png">
 
 5. Puis l'ouvrir dans Photoshop
 6. Dupliquer le calque (<kbd>Ctrl</kbd> sous Windows ou <kbd>Cmd</kbd> sous macOS + <kbd>J</kbd>) :
 <img src="./assets/15.png">
 
-7. Et transformer la copie du calque en objet dynamique (clic droit sur le calque puis choisir Convertir en objet dynamique) ce qui permettra d'enregistrer toutes les modifications successives :
+7. Et transformer la copie du calque en objet dynamique (clic droit sur le calque puis choisir Convertir en objet dynamique) ce qui permettra d'enregistrer et surtout de revenir de façon **non destructive** sur toutes les modifications successives :
 <img src="./assets/16.png" width="285">
 
 8. Créer un flou gaussien :
 <img src="./assets/17.png" width="388">
 
-9. Mettre le flou à 40% 
+9. Mettre le flou à 40% (point de départ du rayon = 1/100 de la largeur en pixel du fichier Photoshop) :
 <img src="./assets/18.png" width="265">
 
 10. Modifier l'exposition de ce calque
@@ -135,18 +142,20 @@ Dans Photoshop
 11. Augmenter légèrement l'exposition :
 <img src="./assets/20.png" width="383">
 
-12. Puis diminuer l'Opacité à 20% 
+12. Puis diminuer l'Opacité à de l'objet dynamique selon le goût (20% utilisé dans cet exemple). 
 
-13. Double cliquer à droite du calque pour afficher le Style de calque et modifier la "**Comparaison sur : Gris**"
+13. Double cliquer à droite du calque pour afficher le Style de calque et modifier la "**Comparaison sur : Gris**" pour n'appliquer que sur les tons moyens à clairs (poignée du curseur du haut vers la droite et **scindée en deux** pour transition douce)
 <img src="./assets/22.png">
 
 
 Voici ce qu'on observe à l'issue de toutes les manipulations sur le calque converti en objet dynamique :
 <img src="./assets/23.png" width="433">
 
+>[!TIP]
+>Pour l'orton, tout est paramétrable selon ses goûts : intensité du flou, intensité de la surexposition, opacité du calque et zone d'application (le plus souvent quand même les hautes lumières) et éventuel masque de fusion
 ### 5.2. Halo
 
-1. Créer un nouveau calque de pixel et choisir le mode de fusion "Lumière tamisée"
+1. Créer un nouveau calque de pixel vide ou vierge (icône <kbd>+</kbd>) et choisir le mode de fusion "Lumière tamisée"
 2. Avec la pipette, choisir une couleur claire
-3. Prendre le pinceau et choisir une épaisseur (<kbd>Ctrl</kbd> + <kbd>Opt</kbd> + clic gauche) et dureté très faible
-4. Et peindre avec parcimonie sur la zone à éclaircir
+3. Prendre le pinceau et choisir une épaisseur (<kbd>Ctrl</kbd> + <kbd>Opt</kbd> + clic gauche) et opacité faible (10% par exemple) et dureté à zéro
+4. Et peindre avec parcimonie sur la zone à éclaircir. Il vaut mieux plusieurs petits coups de pinceaux à faible opacité qu'un seul à forte opacité.
